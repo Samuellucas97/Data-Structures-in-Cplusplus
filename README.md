@@ -13,7 +13,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 C++ compiler.  [**G++**]  
 
-	Optional: Valgrind [**Debugger**]
+	Optional: Valgrind [Debugger]
 
 ## Author
 
