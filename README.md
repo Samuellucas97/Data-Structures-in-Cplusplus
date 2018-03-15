@@ -7,10 +7,13 @@ carefully documented. Therefore, the projects are organized in the follows folde
 - Dictionary
 - HashTable
 - LinkedList
+- Vector
 
 ## Minimum requirements
 
 C++ compiler.  [**G++**]  
+
+	Optional: Valgrind [**Debugger**]
 
 ## Author
 
