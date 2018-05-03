@@ -19,7 +19,7 @@ A
 
 Below is the process in the implementation of the data structures
 
-- [X] Dictionary
+- [X] Dictionary (**100%**)
 
 > Methods
 >> - [X] Remove
