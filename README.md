@@ -2,8 +2,8 @@
 
 
 This repository contains the activities and exercises perfomed in the discipline of ***Data Structures I***
-of the semester 2017.2 and ***Data Structures II*** of the bachareled in Information Technology (**UFRN**). In addition, it contains the other projects made by this author,
-carefully documented. Therefore, the projects are organized in the following folders:
+of the semester 2017.2 and ***Data Structures II*** of the bachareled in Information Technology (**UFRN**).  
+In addition, it contains the other projects made by this author, carefully documented. Therefore, the projects are organized in the following folders:
 
 - Dictionary
 - HashTable
