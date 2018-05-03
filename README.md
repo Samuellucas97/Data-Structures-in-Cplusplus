@@ -6,7 +6,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 - [X] Dictionary
 > Methods
->> - Remove
+>> - [X] Remove
 >> - Insert
 >> - Sucessor
 >> - Predecessor
