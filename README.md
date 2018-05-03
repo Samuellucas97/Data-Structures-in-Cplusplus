@@ -9,7 +9,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 - LinkedList
 - Vector
 
-## Structures implements
+## Data Structures implemented
 
 - [X] Dictionary
 
