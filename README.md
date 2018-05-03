@@ -2,7 +2,14 @@
 
 This repository contains the activities and exercicies perfomed in the discipline of **Data Structures I** 
 of the semester 2017.2 and **Data Structures II**. In addition, it contains the other projects made by this author,
-carefully documented. Therefore, the projects are organized in the follows folders:
+carefully documented. Therefore, the projects are organized in the follows folders:  
+
+- Dictionary
+- HashTable
+- LinkedList
+- Vector
+
+## Structures implements
 
 - [X] Dictionary
 
@@ -25,9 +32,9 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 ## Minimum requirements
 
-C++11 compiler [**G++**] and Doxygen  
+C++11 compiler [**G++**] and Doxygen.  
 
-	Optional: Valgrind [Debugger]
+	Optional: Valgrind and GDB. 
 
 ## Author
 
