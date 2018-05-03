@@ -4,15 +4,15 @@ This repository contains the activities and exercicies perfomed in the disciplin
 of the semester 2017.2 and **Data Structures II**. In addition, it contains the other projects made by this author,
 carefully documented. Therefore, the projects are organized in the follows folders:
 
-[X] - Dictionary
-[X] - HashTable
-[X] - LinkedList
-[X] - Vector
-[] - BinarySearchTree
-[] - Stack
-[] - Queue
-[] - Deque
-[] - Set
+- [X] Dictionary
+- [X] HashTable
+- [X] LinkedList
+- [X] Vector
+- [] BinarySearchTree
+- [] Stack
+- [] Queue
+- [] Deque
+- [] Set
 
 ## Minimum requirements
 
