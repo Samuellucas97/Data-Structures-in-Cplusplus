@@ -19,7 +19,7 @@ In computer science, an data structure is a particular way of storing and organi
 
 ## Data Structures implemented:
 
-Below is the process in the implementation of the data structures.
+Below is the process in the implementation of the data structures. 
 
 - [X] Dictionary (**100%**)
 
