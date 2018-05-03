@@ -11,11 +11,11 @@ In addition, it contains the other projects made by this author, carefully docum
 - LinkedList
 - Vector
 
-## What is data structure?
+## What is Data Structure?
 
+A 
 
-
-## Data Structures implemented
+## Data Structures implemented:
 
 Below is the process in the implementation of the data structures
 
