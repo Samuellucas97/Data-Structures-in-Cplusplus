@@ -35,7 +35,7 @@ carefully documented. Therefore, the projects are organized in the follows folde
 Compilador C++ 11 (**g++**), GNU debugger (**GDB**), Valgrind e Doxygen.
 	
 	Obs.: Para usuários Linux, tanto o g++ quanto o gdb são ambos nativo, faltando apenas instalar o Doxygen  
-	 e o Valgrind. Porém, caso deseje usar o gdb no Windows será necessário instalar o MinGW. 
+	e o Valgrind. Porém, caso deseje usar o gdb no Windows será necessário instalar o MinGW. 
 
 Download Doxygen (**UBUNTU**):
 
