@@ -5,6 +5,13 @@ of the semester 2017.2 and **Data Structures II**. In addition, it contains the 
 carefully documented. Therefore, the projects are organized in the follows folders:
 
 - [X] Dictionary
+> Methods
+	- [] Remove
+	- [] Insert
+	- [] Sucessor
+	- [] Predecessor
+	- [] Min
+	- [] Max
 - [X] HashTable
 - [X] LinkedList
 - [X] Vector
