@@ -13,13 +13,13 @@ In addition, it contains the other projects made by this author, carefully docum
 
 ## What is Data Structure?
 
-In computer science, an data structure is a particular way of storing and organizing data 
-on a computer so that it can be used efficiently, facilitating its search and modification. 
-data structures and algorithms are fundamental themes of computer science, being used in the 
-most diverse areas of knowledge and with the most different purposes of application. It is 
-known that algorithms manipulate data. When these data are organized (arranged) in a coherent 
-way, they characterize a form, a data structure. The organization and methods for manipulating 
-this structure is that it gives it uniqueness (and strategic advantages, such as minimizing the 
+In computer science, an data structure is a particular way of storing and organizing data   
+on a computer so that it can be used efficiently, facilitating its search and modification.   
+data structures and algorithms are fundamental themes of computer science, being used in the   
+most diverse areas of knowledge and with the most different purposes of application. It is   
+known that algorithms manipulate data. When these data are organized (arranged) in a coherent   
+way, they characterize a form, a data structure. The organization and methods for manipulating   
+this structure is that it gives it uniqueness (and strategic advantages, such as minimizing the   
 space occupied in RAM), and (potentially) making the source code leaner and simpler. [Wikipedia]
 
 [Wikipedia]: https://en.wikipedia.org/wiki/Data_structure
