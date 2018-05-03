@@ -8,11 +8,11 @@ carefully documented. Therefore, the projects are organized in the follows folde
 [X] - HashTable
 [X] - LinkedList
 [X] - Vector
-[ ] - BinarySearchTree
-[ ] - Stack
-[ ] - Queue
-[ ] - Deque
-[ ] - Set
+[] - BinarySearchTree
+[] - Stack
+[] - Queue
+[] - Deque
+[] - Set
 
 ## Minimum requirements
 
