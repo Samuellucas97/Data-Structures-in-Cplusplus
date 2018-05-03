@@ -6,12 +6,12 @@ carefully documented. Therefore, the projects are organized in the follows folde
 
 - [X] Dictionary
 > Methods
-	> [X] Remove
-	> [X] Insert
-	> [X] Sucessor
-	> [X] Predecessor
-	> [X] Min
-	> [X] Max
+	>> - Remove
+	>> - Insert
+	>> - Sucessor
+	>> - Predecessor
+	>> - Min
+	>> - Max
 - [X] HashTable
 - [X] LinkedList
 - [X] Vector
