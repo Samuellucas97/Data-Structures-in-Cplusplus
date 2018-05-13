@@ -1,6 +1,6 @@
 # Data Structures in C++
 
-<p align="center">
+<p align="justify">
 <img src="https://prod-discovery.edx-cdn.org/media/course/image/db4a9bb6-0ece-4edf-a7d2-3295ce022fb7-0e8aa0ed7a15.small.jpg" width="40%"  />
 </p>
 
