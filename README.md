@@ -1,10 +1,5 @@
 # Data Structures in C++
 
-<p align="center">
-<img src="https://i1.wp.com/freevideolectures.com/wp-content/uploads/2018/04/data-structures-fall.jpg?fit=300%2C180&ssl=1" width="20%"  />
-</p>
-
-
 This repository contains the activities and exercises perfomed in the discipline of ***Data Structures I***
 of the semester 2017.2 and ***Data Structures II*** of the bachareled in Information Technology (**UFRN**).  
 
@@ -18,6 +13,11 @@ In addition, it contains the other projects made by this author, carefully docum
 ## What is Data Structure?
 
 In computer science, an data structure is a particular way of storing and organizing data on a computer so that it can be used efficiently, facilitating its search and modification. Data structures and algorithms are fundamental themes of computer science, being used in the most diverse areas of knowledge and with the most different purposes of application. It is known that algorithms manipulate data. When these data are organized (_arranged_) in a coherent way, they characterize a form, a data structure. The organization and methods for manipulating this structure is that it gives it uniqueness (and strategic advantages, such as minimizing the space occupied in RAM), and (**potentially**) making the source code leaner and simpler. [Wikipedia]
+
+
+<p align="center">
+<img src="https://image.slidesharecdn.com/part1overviewandreview-140828231850-phpapp01/95/data-structures-part1-overview-and-review-8-638.jpg" width="50%"  />
+</p>
 
 [Wikipedia]: https://en.wikipedia.org/wiki/Data_structure
 
