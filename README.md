@@ -1,7 +1,7 @@
 # Data Structures in C++
 
 <p align="center">
-<img src="https://i1.wp.com/freevideolectures.com/wp-content/uploads/2018/04/data-structures-fall.jpg?fit=300%2C180&ssl=1" width="60%"  />
+<img src="https://i1.wp.com/freevideolectures.com/wp-content/uploads/2018/04/data-structures-fall.jpg?fit=300%2C180&ssl=1" width="20%"  />
 </p>
 
 
