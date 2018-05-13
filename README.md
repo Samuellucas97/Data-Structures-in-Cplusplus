@@ -1,7 +1,7 @@
 # Data Structures in C++
 
 <p align="center">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/4c/91/a3/4c91a3ea-abf8-f487-94e9-0b9414c31ba5/pr_source.png/246x0w.jpg" width="40%"  />
+<img src="https://prod-discovery.edx-cdn.org/media/course/image/db4a9bb6-0ece-4edf-a7d2-3295ce022fb7-0e8aa0ed7a15.small.jpg" width="40%"  />
 </p>
 
 
