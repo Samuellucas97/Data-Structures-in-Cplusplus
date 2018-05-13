@@ -1,7 +1,7 @@
 # Data Structures in C++
 
-<p align="justify">
-<img src="https://prod-discovery.edx-cdn.org/media/course/image/db4a9bb6-0ece-4edf-a7d2-3295ce022fb7-0e8aa0ed7a15.small.jpg" width="100%"  />
+<p align="center">
+<img src="Stretches the lines so that each line has equal width (like in newspapers and magazines)" width="60%"  />
 </p>
 
 
