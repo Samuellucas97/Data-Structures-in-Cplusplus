@@ -1,5 +1,9 @@
 # Data Structures in C++
 
+<p align="center">
+<img src="https://i.ytimg.com/vi/cxR8n6woQuY/maxresdefault.jpg" width="50%"  />
+</p>
+
 
 This repository contains the activities and exercises perfomed in the discipline of ***Data Structures I***
 of the semester 2017.2 and ***Data Structures II*** of the bachareled in Information Technology (**UFRN**).  
