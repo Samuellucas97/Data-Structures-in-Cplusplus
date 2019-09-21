@@ -17,28 +17,6 @@ In computer science, an data structure is a particular way of storing and organi
 
 [Wikipedia]: https://en.wikipedia.org/wiki/Data_structure
 
-## Data Structures implemented:
-
-Below is the process in the implementation of the data structures. 
-
-- [X] Dictionary (**100%**)
-
-> Methods
->> - [X] Remove
->> - [X] Insert
->> - [X] Sucessor
->> - [X] Predecessor
->> - [X] Min
->> - [X] Max
-
-- [X] HashTable
-- [X] LinkedList
-- [X] Vector
-- [ ] BinarySearchTree
-- [ ] Stack
-- [ ] Queue
-- [ ] Deque
-- [ ] Set
 
 ## Minimum requirements
 
